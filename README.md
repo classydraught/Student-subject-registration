@@ -1,0 +1,1 @@
+Here with the help of python language and its graphical packages we are going to develop a GUI(Graphical user interface) application which will read the information given by the user and store them into MySql database.
